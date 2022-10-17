@@ -1,0 +1,9 @@
+{
+	"name": "adf-googleapi-poc",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e567e7aa-07ca-4d8e-b9f0-2872dceb6be7",
+		"tenantId": "ae77d3e9-e952-4767-ad6c-4878fe9df98f"
+	}
+}
